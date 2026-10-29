@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ultralytics
+python-multipart
+pillow
+httpx
+pytest
