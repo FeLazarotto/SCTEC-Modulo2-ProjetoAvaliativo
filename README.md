@@ -1,4 +1,4 @@
-# Projeto Avaliativo — Machine Learning e Visão Computacional
+# Projeto Avaliativo Modulo 2 — Machine Learning e Visão Computacional
 
 Este projeto foi desenvolvido como atividade avaliativa do curso de **Machine Learning e Visão Computacional**, oferecido pelo **SENAI** em parceria com o **SCTEC**, programa do Governo do Estado de Santa Catarina.
 
