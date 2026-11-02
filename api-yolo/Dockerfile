@@ -20,6 +20,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copia o código para a imagem.
 COPY app/ ./app/
+COPY tests/ ./tests/
 
 # Expõe a porta usada pelo servidor.
 EXPOSE 8000
